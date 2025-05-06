@@ -1,0 +1,15 @@
+{
+    "name": "tiger",
+    "description": "a rainbow tiger",
+    "image": "ipfs://bafkreifo57wilgpk4l6phd5lhpwiawifnj6pkiknfhqbr4ejc7dqhxqxky",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "rainbow"
+      },
+      {
+        "trait_type": "type",
+        "value": "tiger"
+      }
+    ]
+  }
